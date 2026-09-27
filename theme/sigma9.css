@@ -318,7 +318,7 @@ hr {
 /* ++++++++++++++++ Header ++++++++++++++++ */
 
 #header {
-    background: var(--ct_bg_header-logo, url('https://nomatsuki.github.io/theme/images/header-logo-area96.svg')) 10px 40px no-repeat;
+    background: url('https://nomatsuki.github.io/theme/images/logo-area96.png') 10px 40px no-repeat;
     background-size: 100px 100px;
     height: var(--ct_ly_header-height);
     margin: 0 auto;
